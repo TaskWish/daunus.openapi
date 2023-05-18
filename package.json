@@ -1,0 +1,25 @@
+{
+  "name": "tinejs.openapi",
+  "version": "0.0.1",
+  "description": "tinejs - openapi",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satoshi-cyber/tinejs.openapi.git"
+  },
+  "author": "Bersen Pajaziti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satoshi-cyber/tinejs.openapi/issues"
+  },
+  "homepage": "https://github.com/satoshi-cyber/tinejs.openapi#readme",
+  "dependencies": {
+    "@runtyping/generator": "^7.0.1",
+    "title-case": "^3.0.3",
+    "zod": "^3.21.4"
+  }
+}
