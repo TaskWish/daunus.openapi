@@ -1,6 +1,6 @@
 {
   "name": "daunus.openapi",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "daunus - openapi",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -16,6 +16,9 @@
   "bugs": {
     "url": "https://github.com/TaskWish/daunus.openapi/issues"
   },
+  "files": [
+    "lib"
+  ],
   "homepage": "https://github.com/TaskWish/daunus.openapi#readme",
   "dependencies": {
     "@runtyping/generator": "^7.0.1",
